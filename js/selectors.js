@@ -11,7 +11,7 @@ function ninjaBabySelector() {
 }
 
 function divSelector() {
-  return $("div[class='baby-ninja']")
+  return $("div[class='pics']")
 }
 
 divSelector().append("blabla")
