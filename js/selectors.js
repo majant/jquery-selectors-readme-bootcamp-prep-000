@@ -1,2 +1,2 @@
 // declare your functions here...
-
+$('div img:first-child').append('backgroundColor: "#f9f9f9"')
