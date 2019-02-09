@@ -14,3 +14,6 @@ function divSelector() {
   return $("div[class='pics']")
 }
 
+function firstListItem() {
+  return $('ul #pic-list:first-child')
+}
