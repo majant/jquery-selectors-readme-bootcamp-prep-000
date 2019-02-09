@@ -1,2 +1,2 @@
 // declare your functions here...
-$('ul li').append("blabla")
+$('div img:first-child').append('blabla')
