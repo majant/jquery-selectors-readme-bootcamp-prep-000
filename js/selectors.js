@@ -14,4 +14,3 @@ function divSelector() {
   return $("div[class='pics']")
 }
 
-divSelector().append("blabla")
