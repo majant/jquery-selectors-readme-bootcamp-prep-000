@@ -1,2 +1,2 @@
 // declare your functions here...
-$('div img:first-child').append('blabla')
+$('div img:first-child').append('<p>"blabla"</p>')
